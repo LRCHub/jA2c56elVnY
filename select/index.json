@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Hack You",
+  "base_artist": "Neko Hacker",
+  "createdAt": "2026-01-07T12:32:50.049122Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hack You",
+      "artist": "Neko Hacker feat. うごくちゃん",
+      "has_synced": true,
+      "path": "select/01_Hack_You_Neko_Hacker_feat._うごくちゃん.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hack You (feat. うごくちゃん)",
+      "artist": "Neko Hacker",
+      "has_synced": true,
+      "path": "select/02_Hack_You_(feat._うごくちゃん)_Neko_Hacker.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hack You feat. うごくちゃん",
+      "artist": "Neko Hacker",
+      "has_synced": true,
+      "path": "select/03_Hack_You_feat._うごくちゃん_Neko_Hacker.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hack You",
+      "artist": "Neko Hacker feat. うごくちゃん",
+      "has_synced": true,
+      "path": "select/04_Hack_You_Neko_Hacker_feat._うごくちゃん.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hack You",
+      "artist": "Neko Hacker feat. うごくちゃん",
+      "has_synced": true,
+      "path": "select/05_Hack_You_Neko_Hacker_feat._うごくちゃん.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hack You",
+      "artist": "Neko Hacker/UGOKUCHAN",
+      "has_synced": true,
+      "path": "select/06_Hack_You_Neko_Hacker_UGOKUCHAN.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hack You",
+      "artist": "Neko Hacker/うごくちゃん",
+      "has_synced": true,
+      "path": "select/07_Hack_You_Neko_Hacker_うごくちゃん.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hack You (feat. UGOKUCHAN)",
+      "artist": "Neko Hacker",
+      "has_synced": true,
+      "path": "select/08_Hack_You_(feat._UGOKUCHAN)_Neko_Hacker.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hack You",
+      "artist": "Neko Hacker",
+      "has_synced": true,
+      "path": "select/09_Hack_You_Neko_Hacker.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hack You feat. Ugokuchan",
+      "artist": "Neko Hacker",
+      "has_synced": true,
+      "path": "select/10_Hack_You_feat._Ugokuchan_Neko_Hacker.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hack You",
+      "artist": "Neko Hacker",
+      "has_synced": true,
+      "path": "select/11_Hack_You_Neko_Hacker.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hack You feat. うごくちゃん",
+      "artist": "Neko Hacker",
+      "has_synced": true,
+      "path": "select/12_Hack_You_feat._うごくちゃん_Neko_Hacker.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hack You",
+      "artist": "うごくちゃん",
+      "has_synced": true,
+      "path": "select/13_Hack_You_うごくちゃん.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hack You",
+      "artist": "Neko Hacker, うごくちゃん",
+      "has_synced": false,
+      "path": "select/pl_01_Hack_You_Neko_Hacker,_うごくちゃん.txt"
+    }
+  ]
+}
